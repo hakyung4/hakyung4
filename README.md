@@ -1,9 +1,10 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=hakyung4.visitor-badge)
 
-### Hello, I am Hakyung! I also go by Peter! 👋
+## Hello, I am Hakyung! I also go by Peter! 👋
+
+Check out my [portfolio website](https://hakyung4.github.io/personal-website/)! Not only is this my portfolio website, but I will also use it as my playground to be more fluent in web development.
 
 - 🏫 I am a sophomore studying Computer Engineering at UIUC. 
-- 🔭 I’m currently working on various projects. 
 - 🌱 I’m currently learning an app development with Flutter and web development with various languages such as React.js and Golang.
 - 👯 I’m looking to collaborate on web development projects.
 - 🤔 I’m looking for an internship opportunity for summer '22.
