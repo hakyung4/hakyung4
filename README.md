@@ -5,8 +5,7 @@
 Check out my [portfolio website](https://hakyung4.github.io/personal-website/)! Not only is this my portfolio website, but I will also use it as my playground to be more fluent in web development.
 
 - 🏫 I am a sophomore studying Computer Engineering at UIUC. 
-- 🌱 I am fairly new to coding. I am currently learning a web development with various languages and frameworks such as React.js and Golang.
-- 👯 I am looking to collaborate on web development projects.
+- 🌱 I am currently learning a web development with various languages and frameworks such as React.js and Golang.
 - 🤔 I am looking for an internship opportunity for summer '22.
 - 📫 Contact me: [LinkedIn](https://www.linkedin.com/in/hakyung-peter-yun-3204061b8/) || [hamiram9@gmail.com](mailto:hamiram9@gmail.com) || [hakyung4@illinois.edu](mailto:hakyung4@illinois.edu)
 
