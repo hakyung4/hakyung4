@@ -1,4 +1,4 @@
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=hakyung4.visitor-badge)
+<!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=hakyung4.visitor-badge) -->
 
 ## Hello, I am Hakyung! I also go by Peter! 👋
 
