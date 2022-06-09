@@ -2,7 +2,7 @@
 
 ## Hello, I am Hakyung! I also go by Peter! 👋
 
-Check out my [portfolio website](https://hakyung4.github.io/personal-website/)! Not only is this my portfolio website, but I will also use it as my playground to be more fluent in web development.
+Check out my [portfolio website](https://hakyung4.github.io/portfolio-website/)! Not only is this my portfolio website, but I will also use it as my playground to be more fluent in web development.
 
 - 🏫 I am a rising junior studying Computer Engineering at UIUC. 
 - 🌱 I am currently learning different areas of applications of computer science such as blockchain, machine learning, cybersecurity, and so on.
