@@ -33,8 +33,3 @@ Check out my [portfolio website](https://hakyung4.github.io/portfolio-website/)!
   <img src="https://github-readme-stats.vercel.app/api?username=hakyung4&count_private=true&&show_icons=true&theme=dracula&hide_border=true" alt="github stats picture"/>
 </details>
 <br>
-
-<details>
-  <summary> Most Used Languages </summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakyung4&hide=Jupyter Notebook&langs_count=10" alt="language stats" />
-</details>
