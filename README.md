@@ -2,7 +2,7 @@
 
 ## Hello, I am Hakyung! I also go by Peter! 👋
 
-Learn more about me [here](https://hakyung4.github.io/portfolio-website/)!
+Learn more about me [here](https://portfolio-hakyung4.vercel.app)!
 
 - 🏫 I am a rising junior studying Computer Engineering at the University of Illinois at Urbana-Champaign (UIUC). 
 - 🌱 I am currently exploring different areas of applications of computer science such as blockchain, machine learning, and cybersecurity.
