@@ -1,6 +1,6 @@
 ## Hello, I am Hakyung! I also go by Peter! 👋
 
-Learn more about me [here](https://portfolio-hakyung4.vercel.app)!
+Learn more about me [here](https://hakyungyun.com)!
 
 - 🏫 I am a junior studying Computer Engineering at the University of Illinois at Urbana-Champaign (UIUC). 
 - 🪖 I am serving in the ROKA (Republic of Korea Army) from 10/11/2022 to 04/09/2024
